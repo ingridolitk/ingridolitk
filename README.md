@@ -1,7 +1,7 @@
-### Hey, I am Ingrid!
+### Hey, I am Ingrid Oliveira!
 
 Eu sou uma Desenvolvedora Android Kotlin e Analista Desenvolvimento de Sistemas no Grupo Litoral.
-----------------------------------------------------------------------------
+
 I'am Android Developer Kotlin and System Developer Analyst in Grupo Litoral
 
 
