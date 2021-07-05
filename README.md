@@ -7,3 +7,5 @@ Eu sou uma Desenvolvedora Android Kotlin e Analista Desenvolvimento de Sistemas 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/ingrid-da-silva-oliveira-54b98a80/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
